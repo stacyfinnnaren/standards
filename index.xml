@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on City of Philadelphia Digital Standards</title>
+    <link>https://cityofphiladelphia.github.io/standards/index.xml</link>
+    <description>Recent content in Home on City of Philadelphia Digital Standards</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://cityofphiladelphia.github.io/standards/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dates</title>
+      <link>https://cityofphiladelphia.github.io/standards/guidelines/content/dates/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cityofphiladelphia.github.io/standards/guidelines/content/dates/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Use numbers for dates and years.&lt;/strong&gt; Don&amp;rsquo;t use &lt;em&gt;st, nd, rd,&lt;/em&gt; or &lt;em&gt;th&lt;/em&gt;.  Write out the name of months. When you use months with a date, only abbreviate the following months: Jan., Feb., Aug., Sept., Oct., Nov. and Dec.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We&amp;rsquo;ll start on Sept. 12 and finish by the end of November.
+The parade will take place on July 4.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You don&amp;rsquo;t need to use a comma if  only a year and month are given (e.g., December 2016), but commas should be used to set off a year if the date, month, and year are given. 
+&amp;gt;Philadelphia was founded on October 27, 1682.&lt;/p&gt;
+
+&lt;p&gt;Capitalize days of the week, but do not abbreviate.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Mayor Kenney will be speaking at the event on Thursday.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;time-date-place&#34;&gt;Time-date-place&lt;/h2&gt;
+
+&lt;p&gt;The preferred structure for conveying event information in narrative text is time-date-place.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The press conference will be held at 2 p.m., Jan. 25 at the Municipal Services Building.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Use of the day of the week is optional. If the day is included, it should be spelled out.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The press conference will be held at 2 p.m., Saturday, Jan. 25 at the Municipal Services Building.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;times&#34;&gt;Times&lt;/h2&gt;
+
+&lt;p&gt;When specific times are important to include, use numbers. Use a.m. and p.m. for morning and afternoon. Use noon and midnight to avoid confusion about 12 a.m. and 12 p.m. Use a colon to separate hours and minutes, but don&amp;rsquo;t use a colon for something that occurs on the hour. &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;4 p.m.&lt;br /&gt;
+11:30 a.m.&lt;br /&gt;
+In effect: 6&amp;ndash;10 p.m. on Friday, Sept. 9&lt;br /&gt;
+In effect: 6:30 p.m. on Friday, Sept.   9&amp;ndash;noon on Saturday, Sept. 10&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>https://cityofphiladelphia.github.io/standards/guidelines/content/links/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cityofphiladelphia.github.io/standards/guidelines/content/links/</guid>
+      <description>
+
+&lt;p&gt;Links are most effective when they are specific and descriptive. When you create a link, highlight text that will give users a clear idea of what they will see if they follow it. This is especially useful for people with vision impairment who use screen readers, and will often &lt;a href=&#34;http://webaim.org/techniques/hypertext/#link_to_link&#34;&gt;skip from one link to another&lt;/a&gt; as a way of skimming content.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;To be ready for the unexpected, you and your family need to &lt;a href=&#34;https://cityofphiladelphia.github.io/standards/prepare-for-an-emergency/make-an-emergency-plan/&#34;&gt;make an emergency plan&lt;/a&gt;.&lt;/em&gt;&lt;br /&gt;
+&lt;strong&gt;- NOT -&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;To be ready for the unexpected, you can find out how to create an emergency plan &lt;a href=&#34;https://beta.phila.gov/services/safety-emergency-preparedness/prepare-for-an-emergency/make-an-emergency-plan/&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;no-click-here&#34;&gt;No &amp;ldquo;click here&amp;rdquo;&lt;/h2&gt;
+
+&lt;p&gt;Do not use &amp;ldquo;click here&amp;rdquo; as the label for any link. Since &amp;ldquo;click here&amp;rdquo; is not descriptive, it&amp;rsquo;s harder for people to find the linked content through a search engine. It&amp;rsquo;s also becoming an outdated term, since mobile devices involve tapping, not clicking.&lt;/p&gt;
+
+&lt;h2 id=&#34;link-destinations&#34;&gt;Link destinations&lt;/h2&gt;
+
+&lt;p&gt;When you create a link, think about where you are sending the user and why. Check to make sure that you have picked the most relevant and authoritative destination so users will get the best information available as quickly as possible. For example, if the Department of Health issues a statement that you are citing, link to the Health statement, rather than to an outside news story that quotes the statement.&lt;/p&gt;
+
+&lt;p&gt;You should also be consistent when determining what will happen when someone follows a link. Phila.gov follows these guidelines for opening new tabs or windows in a user’s browser:&lt;/p&gt;
+
+&lt;h3 id=&#34;do-not-automatically-open-new-tabs-or-windows&#34;&gt;Do not automatically open new tabs or windows&lt;/h3&gt;
+
+&lt;p&gt;Do not set a link to open a new browser tab or window. This applies to any web page link, whether the link goes to another phila.gov page or to an external website.*&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;For additional information on emergency preparedness and response measures, visit the &lt;a href=&#34;https://www.fema.gov/&#34;&gt;Federal Emergency Management Agency (FEMA)&lt;/a&gt; website.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;do-automatically-open-new-tabs-if-the-link-will-begin-a-process&#34;&gt;Do automatically open new tabs if the link will begin a process&lt;/h3&gt;
+
+&lt;p&gt;If the link will begin a new process (for example, starting a registration process for a license, paying a bill, or ordering something) do set the link to open in a new tab. This allows people to complete that new process while still referencing the original page.&lt;/p&gt;
+
+&lt;h3 id=&#34;link-to-document-pages-not-right-to-pdfs&#34;&gt;Link to document pages, not right to pdfs&lt;/h3&gt;
+
+&lt;p&gt;When linking to a form or document, link to the document page that houses that form, rather than directly to the form. Document pages provide important context for files, group related forms together, and are regularly reviewed and updated.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://beta.phila.gov/documents/electronic-funds-transfer-eft-ach-forms-instructions/&#34;&gt;Electronic Funds Transfer (EFT-ACH) forms &amp;amp; instructions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;indicate-when-linking-to-a-website-outside-of-phila-gov&#34;&gt;Indicate when linking to a website outside of phila.gov&lt;/h3&gt;
+
+&lt;p&gt;When you are linking to a website outside of phila.gov check the box that indicates that this website is not part of phila.gov. This helps users know they’ll be going to a new website, not a different page on phila.gov.&lt;/p&gt;
+
+&lt;h3 id=&#34;repetitive-links&#34;&gt;Repetitive links&lt;/h3&gt;
+
+&lt;p&gt;Excessive linking can be confusing and overwhelming. If a resource, topic, or organization is referenced multiple times on one page you only need to link to it the first time. For example, if you refer to the &lt;a href=&#34;http://www.phila.gov/opa/Pages/default.aspx&#34;&gt;Office of Property Assessment&lt;/a&gt; three times in a content item, link to it the first time but not the second or third times.&lt;/p&gt;
+
+&lt;p&gt;*&lt;a href=&#34;https://css-tricks.com/use-target_blank/&#34;&gt;Opinions&lt;/a&gt; do &lt;a href=&#34;http://uxmovement.com/navigation/why-external-links-should-open-in-new-tabs/&#34;&gt;vary&lt;/a&gt; on the &lt;a href=&#34;http://ux.stackexchange.com/questions/19892/opening-website-external-links-in-new-window-published-usability-tests&#34;&gt;subject&lt;/a&gt;, but there is &lt;a href=&#34;http://www.smashingmagazine.com/2008/07/01/should-links-open-in-new-windows/&#34;&gt;not much evidence&lt;/a&gt; to suggest that people want a new tab or window to open automatically when they click a link to an external site. Having many tabs or windows open at the same time can be confusing to users if they have not chosen to see content this way. Users who do want new tabs to open still have this ability, since modern browsers support macros and controls that allow them to open any link in a new tab or window.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Names</title>
+      <link>https://cityofphiladelphia.github.io/standards/guidelines/content/names/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cityofphiladelphia.github.io/standards/guidelines/content/names/</guid>
+      <description>&lt;p&gt;Use the &lt;a href=&#34;https://beta.phila.gov/departments/&#34;&gt;City government directory&lt;/a&gt; to find the official name of an office, department, or commission. Use that name consistently.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Department of Revenue&lt;br /&gt;
+&lt;strong&gt;&amp;ndash;NOT&amp;ndash;&lt;/strong&gt;&lt;br /&gt;
+Revenue Department&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;After the first reference on a page use the short name.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;File your City taxes with the Department of Revenue. If you have trouble paying your taxes Revenue has a variety of assistance programs.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Numbers</title>
+      <link>https://cityofphiladelphia.github.io/standards/guidelines/content/numbers/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cityofphiladelphia.github.io/standards/guidelines/content/numbers/</guid>
+      <description>
+
+&lt;p&gt;Spell out numbers one through nine; use numerals beyond that (10, 11, etc.). Spell out a number when it:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Occurs at the start of a sentence. (&lt;em&gt;Twenty minutes later, the last cyclist crossed the finish line.&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Is a fraction used as an estimate. (&lt;em&gt;one-half, two-thirds, three-quarters&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Use digits instead of spelling out a number when it:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Includes a decimal point. (&lt;em&gt;At that time, the average age for marriage was just 18.7 years old.&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Is part of a percentage. (&lt;em&gt;19 percent of registered voters; 110% effort&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Is part of a range of numbers. (&lt;em&gt;the coveted 18&amp;ndash;34 demographic; working 9 to 5&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;phone-and-fax-numbers&#34;&gt;Phone and fax numbers&lt;/h2&gt;
+
+&lt;p&gt;Use parentheses and a space to separate the area code from the rest of a phone or fax number. Use a hyphen (-) between the third and fourth digits that follow the area code.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Call (215) 686-0306 to find out if the building where you live is being managed by a court-appointed receiver.&lt;br /&gt;
+You can pay delinquent property taxes with a credit card by calling (877) 309-3710.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;money&#34;&gt;Money&lt;/h2&gt;
+
+&lt;p&gt;Use the dollar sign ($) for amounts given in United States Dollars (USD).&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Project estimates are expected to exceed $289.5 million after the storm damage is assessed.&lt;br /&gt;
+Previous processing fee: $0.72&lt;br /&gt;
+New processing fee: $0.83&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For fractional amounts under $1.00 that do not occur in a chart or list, use digits for the number and spell out the word &amp;ldquo;cents.&amp;rdquo;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In 2014, the cost of producing a penny dropped to 1.7 cents, down from 2.4 cents in 2011.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;percentages&#34;&gt;Percentages&lt;/h2&gt;
+
+&lt;p&gt;Spell out the word &amp;ldquo;percent&amp;rdquo; (one word) when including percentages in prose writing.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The study showed a 5 percent decrease in obesity rates among students aged 5 to 18.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Use the percentage sign (%) when including percentages in charts, lists, and brief summaries.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Late fee: 5% of the total due, plus an additional 0.5% for every month the bill is not paid.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Plain language</title>
+      <link>https://cityofphiladelphia.github.io/standards/guidelines/content/plain-language/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cityofphiladelphia.github.io/standards/guidelines/content/plain-language/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Write content in clear, simple terms. Avoid wordy descriptions and jargon. &lt;/strong&gt;City of Philadelphia websites are for everyone in the City. The content they contain should therefore be as straightforward as possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Don’t use formal or long words when easy or short ones will do.&lt;/strong&gt; Use &lt;em&gt;buy&lt;/em&gt; instead of &lt;em&gt;purchase&lt;/em&gt;, &lt;em&gt;help&lt;/em&gt; instead of &lt;em&gt;assist&lt;/em&gt;, &lt;em&gt;about&lt;/em&gt; instead of &lt;em&gt;approximately&lt;/em&gt;, and so on.&lt;/p&gt;
+
+&lt;p&gt;We lose our users’ trust if we write using government buzzwords and jargon. Often, these words are too general and vague and can lead to misinterpretation or empty, meaningless text. We can do without these words:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Agenda (unless you’re talking about a meeting)&lt;/li&gt;
+&lt;li&gt;Advancing&lt;/li&gt;
+&lt;li&gt;Collaborate (use &lt;em&gt;working with&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Combating (use &lt;em&gt;working against&lt;/em&gt; or &lt;em&gt;fighting&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Commit/pledge (we need to be more specific — we’re either doing something or we’re not)&lt;/li&gt;
+&lt;li&gt;Countering&lt;/li&gt;
+&lt;li&gt;Deploy (unless you’re talking about the military or software)&lt;/li&gt;
+&lt;li&gt;Dialogue (we speak to people)&lt;/li&gt;
+&lt;li&gt;Disincentivize (and incentivize)&lt;/li&gt;
+&lt;li&gt;Empower&lt;/li&gt;
+&lt;li&gt;Facilitate (instead, say something specific about &lt;em&gt;how&lt;/em&gt; you are helping)&lt;/li&gt;
+&lt;li&gt;Foster (unless it&amp;rsquo;s children)&lt;/li&gt;
+&lt;li&gt;Illegals/illegal aliens (use &lt;em&gt;undocumented immigrants&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Impact (as a verb)&lt;/li&gt;
+&lt;li&gt;Initiate (use &lt;em&gt;start&lt;/em&gt; or &lt;em&gt;begin&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Innovative (use words that describe the positive outcome of the innovation)&lt;/li&gt;
+&lt;li&gt;Land (as a verb, unless you&amp;rsquo;re talking about aircraft)&lt;/li&gt;
+&lt;li&gt;Leverage (unless you use it in the financial sense)&lt;/li&gt;
+&lt;li&gt;Overarching&lt;/li&gt;
+&lt;li&gt;Progress (what are you actually doing?)&lt;/li&gt;
+&lt;li&gt;Promote (unless you are talking about an ad campaign or some other marketing promotion)&lt;/li&gt;
+&lt;li&gt;Robust&lt;/li&gt;
+&lt;li&gt;Streamline&lt;/li&gt;
+&lt;li&gt;Strengthening (unless you’re referring to bridges or other structures)&lt;/li&gt;
+&lt;li&gt;Tackling (unless you’re referring to football or another contact sport)&lt;/li&gt;
+&lt;li&gt;Thought leader (instead, refer to a person’s accomplishments)&lt;/li&gt;
+&lt;li&gt;Touchpoint (instead, mention specific system components)&lt;/li&gt;
+&lt;li&gt;User testing (unless you’re actually testing the users — otherwise, use &lt;em&gt;usability testing&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Utilize&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Avoid using figurative language.&lt;/strong&gt; It often doesn’t say what you actually mean and can make your content more difficult to understand. For example:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Drive (you can only drive vehicles, not schemes or people)&lt;/li&gt;
+&lt;li&gt;Drive out (unless you&amp;rsquo;re talking about cattle, use &lt;em&gt;get rid of&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Going forward (unless you’re giving directions)&lt;/li&gt;
+&lt;li&gt;In order to (extra words that usually mean the same thing as &amp;ldquo;to&amp;rdquo;)&lt;/li&gt;
+&lt;li&gt;One-stop shop (we’re the government, not a big box store)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In most cases, you can avoid these figures of speech by describing what you’re actually doing. Be open and specific.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Write conversationally.&lt;/strong&gt; Picture your audience and write as if you were talking to them one-on-one and with the authority of someone who can actively help.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Avoid gender-specific language whenever possible.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Yes&lt;/th&gt;
+&lt;th&gt;No&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;chair&lt;/td&gt;
+&lt;td&gt;chairwoman/chairman/chairperson&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;humankind or humanity&lt;/td&gt;
+&lt;td&gt;mankind&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;police officer&lt;/td&gt;
+&lt;td&gt;policeman&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Use &lt;a class=&#34;external&#34; href=&#34;http://www.hemingwayapp.com/&#34;&gt;HemingwayApp&lt;/a&gt;, an online tool to make your writing clear and concise.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Punctuation</title>
+      <link>https://cityofphiladelphia.github.io/standards/guidelines/content/punctuation/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cityofphiladelphia.github.io/standards/guidelines/content/punctuation/</guid>
+      <description>
+
+&lt;h2 id=&#34;addresses&#34;&gt;Addresses&lt;/h2&gt;
+
+&lt;p&gt;When giving addresses spell out the street name entirely, but abbreviate the type of street (St., Rd. Blvd., etc).&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;1401 John F. Kennedy Blvd.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;ampersand&#34;&gt;Ampersand&lt;/h2&gt;
+
+&lt;p&gt;Use an &amp;amp; in labels, headings, and subheadings. Spell out the word &amp;ldquo;and&amp;rdquo; in prose, lists, and department or office titles.&lt;/p&gt;
+
+&lt;h2 id=&#34;bulleted-lists&#34;&gt;Bulleted lists&lt;/h2&gt;
+
+&lt;p&gt;Capitalize the first word of every bullet.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;When you go to the store, please buy:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Bread&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Milk&lt;/em&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Apples&lt;/em&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Include a period only if the bullet point makes a complete sentence following the introductory phrase.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;When you go to the store, please:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Buy bread, milk, and apples.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Fill the car with gas.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;colons&#34;&gt;Colons&lt;/h2&gt;
+
+&lt;p&gt;Capitalize the first word after a colon only if what follows is a complete sentence.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I have several favorite foods: apples, bananas, and pita chips.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;I have several favorite foods: Apples were my first favorite snack, but pita chips are a rising star in my life.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;commas&#34;&gt;Commas&lt;/h2&gt;
+
+&lt;p&gt;We prefer the serial comma (sometimes called the Oxford comma). In a list of three or more, include a comma before the conjunction.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Please buy bread, milk, and apples.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;dashes&#34;&gt;Dashes&lt;/h2&gt;
+
+&lt;h3 id=&#34;em-dash&#34;&gt;Em dash&lt;/h3&gt;
+
+&lt;p&gt;When offsetting a phrase with dashes, you should use the longer &amp;ldquo;em dash,&amp;rdquo; with no space on either side of the dash.&lt;/p&gt;
+
+&lt;p&gt;WordPress automatically converts 3 consecutive hyphens into an em dash.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;We emphasize open, digital record keeping, and&amp;mdash;whenever possible&amp;mdash;we illuminate our processes.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Don&amp;rsquo;t use a single hyphen in place of an em dash.&lt;/p&gt;
+
+&lt;h3 id=&#34;en-dash&#34;&gt;En dash&lt;/h3&gt;
+
+&lt;p&gt;Although we advocate using words rather than symbols, in some contexts you may use an &amp;ldquo;en dash&amp;rdquo; to convey a range. For example, both &lt;em&gt;10–20 students&lt;/em&gt; and &lt;em&gt;10 to 20 students&lt;/em&gt; are acceptable options.&lt;/p&gt;
+
+&lt;p&gt;The en dash is also used in to show relationships and connections, as in the &lt;em&gt;Sarbanes&amp;ndash;Oxley Act&lt;/em&gt;, a *JFK&amp;ndash;LAX flight, *or the &lt;em&gt;Jones&amp;ndash;Martin wedding&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;WordPress automatically converts 2 consecutive hyphens into an en dash.&lt;/p&gt;
+
+&lt;h2 id=&#34;dates&#34;&gt;Dates&lt;/h2&gt;
+
+&lt;p&gt;Include the full name of the month, as in &lt;em&gt;December 14, 1954.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;quotation-marks&#34;&gt;Quotation marks&lt;/h2&gt;
+
+&lt;p&gt;Below are examples of correctly punctuated quotations.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“Would you like a banana?” he asked.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;“I hate bananas,” she said. “You know I hate bananas.”&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;He paused before saying, “Bananas are not something people should hate.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;semicolons&#34;&gt;Semicolons&lt;/h2&gt;
+
+&lt;p&gt;Use semicolons at the end of bullet points if the list is either inclusive or exclusive.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Acceptable forms of identification include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Drivers license;&lt;/li&gt;
+&lt;li&gt;Birth certificate;&lt;/li&gt;
+&lt;li&gt;Or Social Security card.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>References for this guide</title>
+      <link>https://cityofphiladelphia.github.io/standards/guidelines/content/references-for-this-guide/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cityofphiladelphia.github.io/standards/guidelines/content/references-for-this-guide/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://pages.18f.gov/content-guide/&#34; class=&#34;external&#34;&gt;18F Content Guide&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.apstylebook.com/&#34; class=&#34;external&#34;&gt;Associated Press Stylebook&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://consciousstyleguide.com/&#34; class=&#34;external&#34;&gt;The Conscious Style Guide&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/TOC.cfm&#34; class=&#34;external&#34;&gt;Federal Plain Language Guidelines&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.gov.uk/guidance/style-guide&#34; class=&#34;external&#34;&gt;GOV.UK Style guide&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acronyms</title>
+      <link>https://cityofphiladelphia.github.io/standards/guidelines/content/acronyms/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cityofphiladelphia.github.io/standards/guidelines/content/acronyms/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Acronyms can confuse readers. Whenever possible, use the full name.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The first time you refer to an organization or project that uses an acronym, write out the full name and follow with the abbreviation in parentheses.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The General Services Administration (GSA) oversees the business of the U.S. Federal Government.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Some names are more recognizable when they are abbreviated, as with &lt;em&gt;NASA&lt;/em&gt;, &lt;em&gt;NAACP&lt;/em&gt;, &lt;em&gt;IBM&lt;/em&gt;, and &lt;em&gt;FBI&lt;/em&gt;. In such instances, the acronym is always acceptable.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Use &amp;ldquo;nicknames&amp;rdquo; in your second reference&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s often clearer to use a shortened name instead of an acronym when making a second reference to something with a long title. Readers can understand a shortened name without having to think about the first reference. This also helps prevent confusion between repetitive acronyms.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Use &lt;em&gt;Commerce&lt;/em&gt; in place of &lt;em&gt;Department of Commerce&lt;/em&gt;, rather than &lt;em&gt;DOC&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Use &lt;em&gt;Corrections&lt;/em&gt; in place of &lt;em&gt;Department of Corrections&lt;/em&gt;, rather than &lt;em&gt;DOC&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Use &lt;em&gt;the Act&lt;/em&gt; instead of &lt;em&gt;Fire and Police Employee Relations Act&lt;/em&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Active voice</title>
+      <link>https://cityofphiladelphia.github.io/standards/guidelines/content/active-voice/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cityofphiladelphia.github.io/standards/guidelines/content/active-voice/</guid>
+      <description>
+
+&lt;p&gt;Use active voice, not passive voice, whenever possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Active voice&lt;/strong&gt; makes it immediately clear who or what is performing an action.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;The mayor recommends&lt;/em&gt; that City residents take shelter before the winter storm.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Passive voice&lt;/strong&gt; describes a sentence that doesn&amp;rsquo;t state who or what is responsible for an action, or puts the &amp;ldquo;do-er&amp;rdquo; later in the sentence than the thing being done.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;It is recommended&lt;/em&gt; that City residents take shelter before the winter storm.&lt;/p&gt;
+
+&lt;p&gt;A recommendation &lt;em&gt;was made by the mayor&lt;/em&gt; to take shelter before the winter storm.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;While readers usually prefer active voice, there are situations where passive voice is useful. This includes times when the acting person or thing is actually unknown, or when you want to draw attention to the object being acted upon.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The motorcycles &lt;em&gt;were stolen&lt;/em&gt; late last night.&lt;br /&gt;
+&lt;strong&gt;&amp;ndash;NOT&amp;ndash;&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Someone stole&lt;/em&gt; the motorcycles late last night.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;address-readers-actively&#34;&gt;Address readers actively&lt;/h2&gt;
+
+&lt;p&gt;You are also using active voice when you speak directly to the reader. This style is more interesting to read. Use active voice in situations where it&amp;rsquo;s appropriate to encourage action instead of just stating a fact.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;You can create&lt;/em&gt; a new community garden if there is a City-owned vacant lot in your neighborhood.&lt;br /&gt;
+&lt;strong&gt;&amp;ndash;NOT&amp;ndash;&lt;/strong&gt;&lt;br /&gt;
+New community gardens &lt;em&gt;can be created&lt;/em&gt; in City-owned vacant lots.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Capitalization</title>
+      <link>https://cityofphiladelphia.github.io/standards/guidelines/content/capitalization/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cityofphiladelphia.github.io/standards/guidelines/content/capitalization/</guid>
+      <description>
+
+&lt;p&gt;Unnecessary capitalization can come off as overly formal and unapproachable. We follow these capitalization guidelines:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Don&amp;rsquo;t capitalize &lt;em&gt;federal&lt;/em&gt; or &lt;em&gt;government&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t capitalize a job title unless it directly precedes or follows a name&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;proper-nouns&#34;&gt;Proper nouns&lt;/h2&gt;
+
+&lt;p&gt;Capitalize the word &amp;ldquo;city&amp;rdquo; when referring to the City of Philadelphia as an official organization.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The City will announce pool openings on Friday.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There are several City employees at the event.
+Do not capitalize &amp;ldquo;city&amp;rdquo; when it is used in an inclusive or general sense.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Philadelphia has been selected as the host city for the 2016 Democratic National Convention.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
+
+&lt;p&gt;Headlines, page titles, subheads, and similar content should follow normal sentence capitalization.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Making sense of Washington’s tech landscape&lt;/p&gt;
+
+&lt;p&gt;Privileges and responsibilities&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;block-capitalization&#34;&gt;Block capitalization&lt;/h2&gt;
+
+&lt;p&gt;DON&amp;rsquo;T USE CAPITAL LETTERS FOR LONGER HEADLINES OR BLOCKS OF TEXT. IT&amp;rsquo;S HARD TO READ AND CAN SEEM LIKE &amp;ldquo;SHOUTING.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Color palette</title>
+      <link>https://cityofphiladelphia.github.io/standards/guidelines/design-development/color-palette/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cityofphiladelphia.github.io/standards/guidelines/design-development/color-palette/</guid>
+      <description>&lt;p&gt;The color blue is one of our distinguishing features. It&amp;rsquo;s an essential part of our brand identity. It&amp;rsquo;s synonymous with being trustworthy, dependable and secure. Combined with shades of gray and white, the palette provides a welcoming feeling that is easy to read and is clean and simple. Use the accent colors to add some pop and draw attention to certain elements. Always use the accent colors sparingly.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Content</title>
+      <link>https://cityofphiladelphia.github.io/standards/guidelines/content/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cityofphiladelphia.github.io/standards/guidelines/content/</guid>
+      <description>
+
+&lt;p&gt;Government writing tends to be dry, complicated, and obscure. It doesn&amp;rsquo;t take into account who is reading it or why, and often talks at readers rather than to them.&lt;/p&gt;
+
+&lt;p&gt;Likewise, many government websites provide an overwhelming amount of information with few cues on how to navigate it. This can cause confusion, frustration, and a feeling of powerlessness for readers.&lt;/p&gt;
+
+&lt;p&gt;We think Philadelphia can do better.&lt;/p&gt;
+
+&lt;p&gt;We want to make government services more accessible and understandable to everyday citizens. We want to give people the information they need, to do what they need, in a way that fosters trust. This guide can help you achieve those goals.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-to-use-this-guide&#34;&gt;How to use this guide&lt;/h2&gt;
+
+&lt;p&gt;We created this guide for reference on an as-needed basis. It’s here when you’re not sure whether to capitalize the word &amp;ldquo;federal,&amp;rdquo; for instance, or when you’re wondering how to create a friendly, informational tone.&lt;/p&gt;
+
+&lt;p&gt;We’ve structured the guide into sections based on the topic covered. Browse the list of contents to find what you’re looking for.&lt;/p&gt;
+
+&lt;p&gt;This guide will continue to grow and change as we learn more about how people use our content. If you feel the guide is incorrect, inconsistent, or missing something, by all means, let us know so that we can address it.&lt;/p&gt;
+
+&lt;p&gt;Together we can help create a better online experience for everyone who interacts with the City.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contractions</title>
+      <link>https://cityofphiladelphia.github.io/standards/guidelines/content/contractions/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cityofphiladelphia.github.io/standards/guidelines/content/contractions/</guid>
+      <description>&lt;p&gt;Use common contractions like &lt;em&gt;it&amp;rsquo;s, can’t, shouldn&amp;rsquo;t,&lt;/em&gt; and &lt;em&gt;you&amp;rsquo;ll&lt;/em&gt;. Contractions are part of everyday conversation, so readers find them easy to understand.&lt;/p&gt;
+
+&lt;p&gt;Too many uses of *it is, cannot,* and *should not* can seem archaic and formal. We can move away from this without compromising the reliable and professional tone of information coming from government.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design &amp; development</title>
+      <link>https://cityofphiladelphia.github.io/standards/guidelines/design-development</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cityofphiladelphia.github.io/standards/guidelines/design-development</guid>
+      <description>&lt;div class=&#34;row mbm&#34;&gt;
+  &lt;div class=&#34;small-24 columns&#34;&gt;
+    &lt;section&gt;
+      &lt;div class=&#34;bg-light-blue pam&#34;&gt;
+        &lt;div class=&#34;row column&#34;&gt;
+          &lt;div class=&#34;valign equal-height&#34;&gt;
+            &lt;div class=&#34;valign-cell equal prs&#34;&gt;
+              &lt;i class=&#34;fa fa-info-circle fa-3x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;valign-cell equal&#34;&gt;
+              &lt;h3 class=&#34;mbn&#34;&gt;This section of standards.phila.gov is a work-in-progress.&lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;The visual identity system for the City of Philadelphia consists of elements including the logo, color palette, typography, iconography, and photographic style. They work together to create a look and feel that is unique to the City of Philadelphia. These standards help ensure a consistent design and identity.&lt;/p&gt;
+
+&lt;p&gt;The goals for creating this standards guide:
+1. Streamline the workflow for designers and developers
+2. Maintain a consistency of styles and identity
+3. Create a focal point for our Design and User experience work, both for ourselves and for the community&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&#34;accordion&#34; data-accordion data-multi-expand=&#34;true&#34; data-allow-all-closed=&#34;true&#34;&gt;
+  &lt;div class=&#34;accordion-item&#34; data-accordion-item&gt;
+    &lt;a href=&#34;#&#34; class=&#34;accordion-title&#34;&gt;Accessibility&lt;/a&gt;
+    &lt;div class=&#34;accordion-content&#34; data-tab-content&gt;
+      &lt;p&gt;A well-designed website is accessible to users of all abilities, including those with low vision, blindness, hearing impairments, cognitive impairments, or motor impairments.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;accordion-item&#34; data-accordion-item&gt;
+    &lt;a href=&#34;#&#34; class=&#34;accordion-title&#34;&gt;Accessibility&lt;/a&gt;
+    &lt;div class=&#34;accordion-content&#34; data-tab-content&gt;
+      &lt;p&gt;A well-designed website is accessible to users of all abilities, including those with low vision, blindness, hearing impairments, cognitive impairments, or motor impairments.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Glossary of terms</title>
+      <link>https://cityofphiladelphia.github.io/standards/glossary/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cityofphiladelphia.github.io/standards/glossary/</guid>
+      <description>&lt;div class=&#34;row mbm&#34;&gt;
+  &lt;div class=&#34;small-24 columns&#34;&gt;
+    &lt;section&gt;
+      &lt;div class=&#34;bg-light-blue pam&#34;&gt;
+        &lt;div class=&#34;row column&#34;&gt;
+          &lt;div class=&#34;valign equal-height&#34;&gt;
+            &lt;div class=&#34;valign-cell equal prs&#34;&gt;
+              &lt;i class=&#34;fa fa-info-circle fa-3x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;valign-cell equal&#34;&gt;
+              &lt;h3 class=&#34;mbn&#34;&gt;This section of standards.phila.gov is a work-in-progress.&lt;/h3&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
